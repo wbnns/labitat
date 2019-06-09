@@ -1,0 +1,43 @@
+body {
+  background: #eeeeee;
+}
+
+header {
+	margin-bottom: 1em;
+}
+
+nav {
+	margin-bottom: 1em;
+}
+
+footer {
+	margin-top: 1em;
+}
+
+.boxhead {
+	background: #aaaaaa;
+	color: #393939;
+	margin: 0px;
+	padding: 5px 5px 5px 15px;
+}
+
+.boxheadb {
+	background: #00c6ff;
+	color: #ffffff;
+	margin: 0px;
+	padding: 5px 5px 5px 15px;
+}
+
+.boxcontent {
+	background: #ffffff;
+	margin-bottom: 1em;
+	padding: 15px;
+}
+
+.row {
+	margin-bottom: 1em;
+}
+
+.tagline {
+	color: #ffffff;
+}
